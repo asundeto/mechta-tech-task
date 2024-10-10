@@ -30,4 +30,4 @@ The program must read the file and calculate the sum of all the numbers. To do t
 ⁃ Output the overall result to the console
 ⁃ Publish the solution on github.com and provide access
 
-### To run code use: go run . <test.json> <goroutine >
+### To run code use: go run . <json file name> | Example go run . test.json
