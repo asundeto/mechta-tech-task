@@ -29,3 +29,5 @@ The program must read the file and calculate the sum of all the numbers. To do t
 ⁃ The number of goroutines for parallel processing must be obtained when running the program via an argument
 ⁃ Output the overall result to the console
 ⁃ Publish the solution on github.com and provide access
+
+### To run code use: go run . <test.json> <goroutine >
